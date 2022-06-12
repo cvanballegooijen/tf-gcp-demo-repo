@@ -12,7 +12,7 @@ variable "nodes" {
 }
 variable "owner" {
     description = "Owner name for tagging and access"
-    default = "dcanadillas"
+    default = "cvanballegooijen"
 }
 variable "machine" {
     description = "GCP instance type"

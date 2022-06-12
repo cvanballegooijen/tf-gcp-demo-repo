@@ -1,6 +1,6 @@
-gcp_project = "hc-dcanadillas"
+gcp_project = "hc-cojan"
 gcp_region = "europe-west1"
 gcp_zone = "europe-west1-c"
 nodes = 2
-owner = "dcanadillas"
+owner = "cvanballegooijen"
 cluster = "dc-cluster"
